@@ -1,12 +1,20 @@
 format: jb-book
 root: index.md
 parts:
-  - caption: courses
-    chapters:
-      - file: courses/README.md
-        sections:
-          - file: courses/big_data/README.md
-            sections:
-              - file: courses/big_data/big_data_practice.md
-              - file: courses/big_data/big_data_tech.md
-          
+- caption: 教学
+  chapters:
+  - file: courses/README.md
+    sections:
+    - file: courses/big_data/README.md
+      sections:
+      - file: courses/big_data/big_data_practice.md
+      - file: courses/big_data/big_data_tech.md
+  - file: lectures/README.md
+    sections:
+    - file: lectures/big_data_theory/README.md
+    - file: lectures/big_data_application/README.md
+  - file: symposiums/README.md
+    sections:
+    - file: symposiums/big_data/README.md
+      sections:
+      - file: symposiums/big_data/2025-05.md
