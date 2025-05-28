@@ -13,6 +13,10 @@ parts:
     sections:
     - file: lectures/big_data_theory/README.md
     - file: lectures/big_data_application/README.md
+  - file: homeworks/README.md
+    sections:
+    - file: homeworks/big_data_tech/README.md
+    - file: homeworks/big_data_practice/README.md
   - file: symposiums/README.md
     sections:
     - file: symposiums/big_data/README.md
