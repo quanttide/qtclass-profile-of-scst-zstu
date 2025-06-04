@@ -17,6 +17,8 @@ parts:
     sections:
     - file: homeworks/big_data_tech/README.md
     - file: homeworks/big_data_practice/README.md
+      sections: 
+      - file: homeworks/big_data_practice/criteria.md
   - file: symposiums/README.md
     sections:
     - file: symposiums/big_data/README.md
