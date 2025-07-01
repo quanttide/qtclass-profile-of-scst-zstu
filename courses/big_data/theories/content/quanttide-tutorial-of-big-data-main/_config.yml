@@ -1,7 +1,0 @@
-# https://jupyterbook.org/en/stable/customize/config.html
-name: quanttide-tutorial-of-big-data
-title: 量潮大数据教程
-author: 量潮科技
-description: 量潮大数据教程
-# Jupyter Book Config
-only_build_toc_files: true
