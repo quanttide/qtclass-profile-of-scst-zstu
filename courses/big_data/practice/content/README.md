@@ -1,5 +1,5 @@
 [实践课内容]- [https://github.com/quanttide/quanttide-example-of-big-data]
-- [quanttide-example-of-big-data（实践部分）](https://github.com/quanttide/quanttide-example-of-big-data)
+## 具体内容目录
 - [docs/cpi_calculator/README.md](https://github.com/quanttide/quanttide-example-of-big-data/blob/main/docs/cpi_calculator/README.md)：CPI计算器项目逻辑梳理
 - [docs/cpi_calculator/schemas.md](https://github.com/quanttide/quanttide-example-of-big-data/blob/main/docs/cpi_calculator/schemas.md)：数据表（category、price、product）
 - [docs/data_generator](https://github.com/quanttide/quanttide-example-of-big-data/tree/main/docs/data_generator) 模拟数据生成
