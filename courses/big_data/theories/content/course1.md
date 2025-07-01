@@ -59,3 +59,5 @@
 
 ### 4. 湖仓一体
 - **定位**：数据仓库与数据湖的结合体
+
+[课时1PPT](https://github.com/quanttide/qtclass-profile-of-scst-zstu/blob/main/courses/big_data/theories/content/course_PPT/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF-%E8%AF%BE%E6%97%B61-%E7%AE%80%E4%BB%8B.pptx)
