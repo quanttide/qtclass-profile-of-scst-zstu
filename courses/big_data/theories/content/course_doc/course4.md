@@ -185,9 +185,9 @@ Kafka
 
 ### Flink
 https://magicpenta.github.io/docs/flink/Flink%20快速入门/ 
-![image](https://github.com/user-attachments/assets/dc5eeae2-1a82-4c0c-b254-e76cb2448869)
+
 https://magicpenta.github.io/docs/flink/Flink%20状态管理/ 
-![image](https://github.com/user-attachments/assets/913d5489-00e2-4f1d-a6af-a15c18d940ba)
+
 
 Flink vs Spark
 
