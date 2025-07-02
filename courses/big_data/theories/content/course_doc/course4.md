@@ -1,5 +1,5 @@
 # 大数据技术-课时4-湖仓一体
-
+[大数据技术-课时4-湖仓一体.pptx](https://github.com/{username}/{repo}/raw/main/courses/big_data/theories/content/course_PPT/大数据技术-课时4-湖仓一体.pptx)
 ## 课时内容
 ### 湖仓一体
 湖仓一体（Lakehouse）架构通过融合数据湖的灵活性与数据仓库的治理能力，解决了二者的核心短板，但也带来了新的挑战。以下是详细分析：
