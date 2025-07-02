@@ -22,7 +22,7 @@
   [知乎系列文章3](https://zhuanlan.zhihu.com/p/21798044)  
   [知乎系列文章4](https://zhuanlan.zhihu.com/p/22036353)  
 - 阅读文章3.1，了解价格指数的概念和计算方式：  
-  [价格指数概念](https://drive.weixin.qq.com/s?k=ACQAsweXAA0Z5dbXn0)  
+  [价格指数概念]([https://drive.weixin.qq.com/s?k=ACQAsweXAA0Z5dbXn0](https://www.hbs.edu/ris/Publication%20Files/Cavallo_Alberto_Online%20and%20Official%20Price%20Indexes%20Measuring%20Argentinas%20Inflation_600c0e8f-cc57-430d-b869-a650dda2b290.pdf))  
 
 ### (2) 数据的获取和预处理  
 **数据源：**  
