@@ -45,3 +45,5 @@ B --> C{统一元数据}
 C --> D[数据治理]
 C --> E[数据分析]
 C --> F[机器学习]
+
+[大数据技术-课时3-数据湖.pptx](https://github.com/{username}/{repo}/raw/main/courses/big_data/theories/content/course_PPT/大数据技术-课时3-数据湖.pptx)
