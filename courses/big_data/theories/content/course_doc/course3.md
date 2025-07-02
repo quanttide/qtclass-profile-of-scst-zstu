@@ -1,6 +1,6 @@
 # 大数据技术-课时3-数据湖
 ---
-
+[大数据技术-课时3-数据湖.pptx](https://github.com/{username}/{repo}/raw/main/courses/big_data/theories/content/course_PPT/大数据技术-课时3-数据湖.pptx)
 ## 课时内容
 ### 1. 对象存储 vs 文件存储
 | **存储类型** | **代表系统** | **核心特性**                      |
@@ -46,4 +46,4 @@ C --> D[数据治理]
 C --> E[数据分析]
 C --> F[机器学习]
 
-[大数据技术-课时3-数据湖.pptx](https://github.com/{username}/{repo}/raw/main/courses/big_data/theories/content/course_PPT/大数据技术-课时3-数据湖.pptx)
+
