@@ -49,7 +49,7 @@
 
 ### 及格（60-69分）
 评分示例：  
-[60分示例.pdf](https://drive.weixin.qq.com/s?k=ACQAsweXAA0rMTTsqBAfgAjAY6AC4)  
+[60分示例.pdf](https://github.com/quanttide/qtclass-profile-of-scst-zstu/blob/main/courses/big_data/theories/evaluation-criteria/60%E5%88%86%E7%A4%BA%E4%BE%8B.md)  
 [65分示例.pdf](https://github.com/quanttide/qtclass-profile-of-scst-zstu/blob/main/courses/big_data/theories/evaluation-criteria/65%E5%88%86%E7%A4%BA%E4%BE%8B.md)
 - 结构混乱，缺乏主线
 - 关键信息遗漏严重
