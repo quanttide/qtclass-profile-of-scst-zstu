@@ -29,7 +29,7 @@
 
 ## 三、等级评定标准（综合版）
 ### 优秀（90-100分）
-[90分示例.pdf]([courses/big_data/theories/evaluation-criteria/90分示例.md](https://github.com/quanttide/qtclass-profile-of-scst-zstu/blob/main/courses/big_data/theories/evaluation-criteria/90%E5%88%86%E7%A4%BA%E4%BE%8B.md))
+[90分示例.pdf](https://github.com/quanttide/qtclass-profile-of-scst-zstu/blob/main/courses/big_data/theories/evaluation-criteria/90%E5%88%86%E7%A4%BA%E4%BE%8B.md)
 - 结构逻辑严密，章节划分清晰合理
 - 图表规范，语言简洁流畅
 - 核心内容完整深入，体现独立思考与创新
