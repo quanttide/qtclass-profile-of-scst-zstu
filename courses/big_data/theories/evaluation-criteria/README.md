@@ -29,7 +29,7 @@
 
 ## 三、等级评定标准（综合版）
 ### 优秀（90-100分）
-[90分示例.pdf](https://drive.weixin.qq.com/s?k=ACQAsweXAA0tpwERB9AfgAjAY6AC4)
+[90分示例.pdf](courses/big_data/theories/evaluation-criteria/90分示例.md)
 - 结构逻辑严密，章节划分清晰合理
 - 图表规范，语言简洁流畅
 - 核心内容完整深入，体现独立思考与创新
