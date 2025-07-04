@@ -59,7 +59,7 @@
 ### 不及格（60分以下）
 评分示例：  
 [50分示例.pdf](https://drive.weixin.qq.com/s?k=ACQAsweXAA0NmMNBItAfgAjAY6AC4)  
-[55分示例.pdf](https://drive.weixin.qq.com/s?k=ACQAsweXAA0hTQn8heAfgAjAY6AC4)
+[55分示例.pdf](https://github.com/quanttide/qtclass-profile-of-scst-zstu/blob/main/courses/big_data/theories/evaluation-criteria/55%E5%88%86%E7%A4%BA%E4%BE%8B.md)
 - 明显抄袭、剽窃行为
 - 内容与题目严重偏离
 - 大量使用AI生成内容而未加整理
