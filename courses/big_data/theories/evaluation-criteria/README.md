@@ -42,7 +42,7 @@
 
 ### 中等（70-79分）
 [70分示例.pdf](https://drive.weixin.qq.com/s?k=ACQAsweXAA09yigwuEAfgAjAY6AC4)  
-[75分示例.pdf](https://drive.weixin.qq.com/s?k=ACQAsweXAA0HUxIKWJAfgAjAY6AC4)
+[75分示例.pdf](https://github.com/quanttide/qtclass-profile-of-scst-zstu/blob/main/courses/big_data/theories/evaluation-criteria/75%E5%88%86%E7%A4%BA%E4%BE%8B.md)
 - 框架基本完整，但部分内容缺失或表述不清
 - 图表或语言表达存在较多问题
 - 核心内容不完整，逻辑不够严谨
