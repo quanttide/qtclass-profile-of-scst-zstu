@@ -29,7 +29,7 @@
 
 ## 三、等级评定标准（综合版）
 ### 优秀（90-100分）
-[90分示例.pdf](https://github.com/quanttide/qtclass-profile-of-scst-zstu/blob/main/courses/big_data/theories/evaluation-criteria/90%E5%88%86%E7%A4%BA%E4%BE%8B.md)
+[90分示例.md](./samples/90分示例.md)
 - 结构逻辑严密，章节划分清晰合理
 - 图表规范，语言简洁流畅
 - 核心内容完整深入，体现独立思考与创新
@@ -41,16 +41,16 @@
 - 核心内容完整但深度略显不足
 
 ### 中等（70-79分）
-[70分示例.pdf](https://github.com/quanttide/qtclass-profile-of-scst-zstu/blob/main/courses/big_data/theories/evaluation-criteria/70%E5%88%86%E7%A4%BA%E4%BE%8B.md)  
-[75分示例.pdf](https://github.com/quanttide/qtclass-profile-of-scst-zstu/blob/main/courses/big_data/theories/evaluation-criteria/75%E5%88%86%E7%A4%BA%E4%BE%8B.md)
+[70分示例.md](./samples/70分示例.md)  
+[75分示例.md](./samples/75分示例.md)
 - 框架基本完整，但部分内容缺失或表述不清
 - 图表或语言表达存在较多问题
 - 核心内容不完整，逻辑不够严谨
 
 ### 及格（60-69分）
 评分示例：  
-[60分示例.pdf](https://github.com/quanttide/qtclass-profile-of-scst-zstu/blob/main/courses/big_data/theories/evaluation-criteria/60%E5%88%86%E7%A4%BA%E4%BE%8B.md)  
-[65分示例.pdf](https://github.com/quanttide/qtclass-profile-of-scst-zstu/blob/main/courses/big_data/theories/evaluation-criteria/65%E5%88%86%E7%A4%BA%E4%BE%8B.md)
+[60分示例.md](./samples/60分示例.md)  
+[65分示例.md](./samples/65分示例.md)
 - 结构混乱，缺乏主线
 - 关键信息遗漏严重
 - 表达影响理解，图表不清晰
@@ -58,8 +58,8 @@
 
 ### 不及格（60分以下）
 评分示例：  
-[50分示例.pdf](https://github.com/quanttide/qtclass-profile-of-scst-zstu/blob/main/courses/big_data/theories/evaluation-criteria/50%E5%88%86%E7%A4%BA%E4%BE%8B.md)  
-[55分示例.pdf](https://github.com/quanttide/qtclass-profile-of-scst-zstu/blob/main/courses/big_data/theories/evaluation-criteria/55%E5%88%86%E7%A4%BA%E4%BE%8B.md)
+[50分示例.md](./samples/50分示例.md)  
+[55分示例.md](./samples/55分示例.md)
 - 明显抄袭、剽窃行为
 - 内容与题目严重偏离
 - 大量使用AI生成内容而未加整理

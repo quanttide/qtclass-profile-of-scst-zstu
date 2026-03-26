@@ -1,26 +1,40 @@
 format: jb-book
 root: index.md
 parts:
-- caption: 教学
-  chapters:
-  - file: courses/README.md
-    sections:
-    - file: courses/big_data/README.md
-      sections:
-      - file: courses/big_data/big_data_practice.md
-      - file: courses/big_data/big_data_tech.md
-  - file: lectures/README.md
-    sections:
-    - file: lectures/big_data_theory/README.md
-    - file: lectures/big_data_application/README.md
-  - file: homeworks/README.md
-    sections:
-    - file: homeworks/big_data_tech/README.md
-    - file: homeworks/big_data_practice/README.md
-      sections: 
-      - file: homeworks/big_data_practice/criteria.md
-  - file: symposiums/README.md
-    sections:
-    - file: symposiums/big_data/README.md
-      sections:
-      - file: symposiums/big_data/2025-05.md
+  - caption: 📘 学习资源 (Learning)
+    chapters:
+      - file: learning/theory/content/course_doc/course1.md
+        title: 理论课程
+        sections:
+          - file: learning/theory/content/course_doc/course2.md
+          - file: learning/theory/content/course_doc/course3.md
+          - file: learning/theory/content/course_doc/course4.md
+      - file: learning/practice/big_data_practice.md
+        title: 实践项目
+        sections:
+          - file: learning/practice/big_data_tech.md
+          - file: learning/practice/content/​​Project_Task_Specification.md
+      - file: learning/assignments/grading_rubric.md
+        title: 作业与评测
+        sections:
+          - file: learning/assignments/samples/90分示例.md
+          - file: learning/assignments/samples/75分示例.md
+          - file: learning/assignments/samples/70分示例.md
+          - file: learning/assignments/samples/65分示例.md
+          - file: learning/assignments/samples/60分示例.md
+          - file: learning/assignments/samples/55分示例.md
+          - file: learning/assignments/samples/50分示例.md
+          - file: learning/assignments/big_data_practice/criteria.md
+          - file: learning/assignments/theories_homework/bigdata_tech_homework1.md
+
+  - caption: 🍎 教学沉淀 (Teaching)
+    chapters:
+      - file: teaching/feedback/2025-05.md
+        title: 互动与反馈
+
+  - caption: ⚙️ 项目管理 (Admin)
+    chapters:
+      - file: docs/TODO.md
+        title: 路线图
+      - file: docs/CHANGELOG.md
+        title: 变更记录
