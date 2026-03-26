@@ -26,19 +26,19 @@ parts:
       - file: learning/assignments/grading_rubric.md
         title: 作业与评测
         sections:
-          - file: learning/assignments/samples/90分示例.md
+          - file: learning/assignments/samples/sample_90.md
             title: 90 分示例
-          - file: learning/assignments/samples/75分示例.md
+          - file: learning/assignments/samples/sample_75.md
             title: 75 分示例
-          - file: learning/assignments/samples/70分示例.md
+          - file: learning/assignments/samples/sample_70.md
             title: 70 分示例
-          - file: learning/assignments/samples/65分示例.md
+          - file: learning/assignments/samples/sample_65.md
             title: 65 分示例
-          - file: learning/assignments/samples/60分示例.md
+          - file: learning/assignments/samples/sample_60.md
             title: 60 分示例
-          - file: learning/assignments/samples/55分示例.md
+          - file: learning/assignments/samples/sample_55.md
             title: 55 分示例
-          - file: learning/assignments/samples/50分示例.md
+          - file: learning/assignments/samples/sample_50.md
             title: 50 分示例
           - file: learning/assignments/big_data_practice/criteria.md
             title: 实践评分细则
