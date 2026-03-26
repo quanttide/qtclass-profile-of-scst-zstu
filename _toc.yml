@@ -3,34 +3,57 @@ root: index.md
 parts:
   - caption: 📘 学习资源 (Learning)
     chapters:
-      - file: learning/theory/content/course_doc/course1.md
+      - file: learning/theory/README.md
         title: 理论课程
         sections:
+          - file: learning/theory/content/course_doc/course1.md
+            title: 课时 1 - 简介
           - file: learning/theory/content/course_doc/course2.md
+            title: 课时 2 - 数据库对比
           - file: learning/theory/content/course_doc/course3.md
+            title: 课时 3 - 数据湖
           - file: learning/theory/content/course_doc/course4.md
+            title: 课时 4 - 湖仓一体
       - file: learning/practice/big_data_practice.md
         title: 实践项目
         sections:
           - file: learning/practice/big_data_tech.md
-          - file: learning/practice/content/​​Project_Task_Specification.md
+            title: 技术栈说明
+          - file: learning/practice/content/Project_Task_Specification.md
+            title: 任务规格书
+          - file: learning/practice/content/evaluation-criteria.md
+            title: 评价准则
       - file: learning/assignments/grading_rubric.md
         title: 作业与评测
         sections:
           - file: learning/assignments/samples/90分示例.md
+            title: 90 分示例
           - file: learning/assignments/samples/75分示例.md
+            title: 75 分示例
           - file: learning/assignments/samples/70分示例.md
+            title: 70 分示例
           - file: learning/assignments/samples/65分示例.md
+            title: 65 分示例
           - file: learning/assignments/samples/60分示例.md
+            title: 60 分示例
           - file: learning/assignments/samples/55分示例.md
+            title: 55 分示例
           - file: learning/assignments/samples/50分示例.md
+            title: 50 分示例
           - file: learning/assignments/big_data_practice/criteria.md
+            title: 实践评分细则
           - file: learning/assignments/theories_homework/bigdata_tech_homework1.md
+            title: 理论作业 1
+          - file: learning/assignments/theories_homework/exam_questions_and_answers.md
+            title: 考试问答库
 
   - caption: 🍎 教学沉淀 (Teaching)
     chapters:
-      - file: teaching/feedback/2025-05.md
+      - file: teaching/feedback/README.md
         title: 互动与反馈
+        sections:
+          - file: teaching/feedback/2025-05.md
+            title: 2025年5月座谈记录
 
   - caption: ⚙️ 项目管理 (Admin)
     chapters:
